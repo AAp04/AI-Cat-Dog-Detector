@@ -28,11 +28,11 @@ I will accomplist how to write a code with no help and also accomplish noticing 
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
-I can accomplist just writeong and test my code.
+I can accomplist writing the code and testing the code.
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-I can accomplist just writeong and test my code.
+I can accomplist more then I expected from my project such as I can add more thing that I can do with the program. 
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
