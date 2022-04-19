@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Amul Patel
 
 #### Your section leader's name
 
-TODO
+Amul Patel
 
 #### Project title
 
-TODO
+Hand Picked.
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+Have finished researching and started on writing my code.
 
 #### What have you not done for your project yet?
 
-TODO
+testing my code
 
 #### What problems, if any, have you encountered?
 
-TODO
+None as of now.
