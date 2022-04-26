@@ -10,7 +10,7 @@ Amul Patel
 
 #### Project title
 
-Hand Picked.
+Cats vs dogs 
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-Have finished researching and started on writing my code.
+I have so far gathered data for my project.
 
 #### What have you not done for your project yet?
 
-testing my code
+Finished writing my code.
 
 #### What problems, if any, have you encountered?
 
-None as of now.
+no
